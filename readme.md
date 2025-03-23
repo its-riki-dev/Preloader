@@ -1,4 +1,4 @@
-# John Doe. - Photographer Landing Page
+# Preloader
 
 This project features a modern design with seamless animations, starting with a dynamic preloader and transitioning into visually engaging image reveals.
 
